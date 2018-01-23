@@ -1,4 +1,4 @@
-# landing-page-stater-kit
+# landing-page-starter-kit
 A landing page starter kit based on Jekyll
 
 # Getting started
