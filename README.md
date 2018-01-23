@@ -6,7 +6,7 @@ Install the [gem](https://rubygems.org)
 
 Read more about [Jekyll](https://jekyllrb.com)
 
-`git clone https://github.com/smakosh/landing-page-stater-kit.git`
+`git clone https://github.com/smakosh/landing-page-starter-kit.git`
 
 `cd landing-page-starter-kit/`
 
